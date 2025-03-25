@@ -1,6 +1,6 @@
 import React from 'react';
 
-function App() {
+function App() 
   return (
    <!DOCTYPE html>
 <html lang="pt-br">
