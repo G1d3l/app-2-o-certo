@@ -11,15 +11,14 @@ function App() {
         <h2>Seja bem-vindo!</h2>
         <p>Este é um site de exemplo.</p>
 
-        {/* Certifique-se de que a imagem esteja na pasta "public" ou importe corretamente */}
         <img src="/imagem.jpg" alt="Imagem de Exemplo" />
 
         <form>
-          <label htmlFor="nome">Nome:</label>
-          <input type="text" id="nome" name="nome" placeholder="Digite seu nome" />
+          <label htmlFor="combustivel"> combustivel:</label>
+          <input type="text" id="combustivel" name="combustivel" placeholder="combustivel" />
 
-          <label htmlFor="email">E-mail:</label>
-          <input type="email" id="email" name="email" placeholder="Digite seu e-mail" />
+          <label htmlFor="combustivel">combustivel:</label>
+          <input type="email" id="combustivel" name="combustivel" placeholder="combustivel" />
 
           <button type="submit">Enviar</button>
         </form>
